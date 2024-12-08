@@ -1,6 +1,6 @@
 # NLX
 
-**NLX** is a **Vite plugin** that parses `.nlx` files written in natural language into **Vue** components. It leverages **Tailwind CSS** for styling and **ShadCN** as the design system, enabling developers to write modular, framework-compliant code effortlessly.
+**NLX** compiles `.nlx` files written in plain english natural language into **Vue** components at build. It leverages **Tailwind CSS** for styling and **ShadCN** as the design system, enabling developers to write modular, framework-compliant code effortlessly.
 
 ---
 
